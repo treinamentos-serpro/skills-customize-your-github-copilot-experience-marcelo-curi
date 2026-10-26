@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a task management REST API with FastAPI, validation, HTTP status codes, and automated tests.",
+      "path": "assignments/building-rest-apis-with-fastapi",
+      "dueDate": "2026-11-02"
     }
   ]
 }
