@@ -65,6 +65,25 @@
       "description": "Build a task management REST API with FastAPI, validation, HTTP status codes, and automated tests.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-02"
+    },
+    {
+      "id": "gerenciador-de-notas",
+      "title": "Gerenciador de Notas",
+      "description": "Crie um gerenciador de notas que salva dados em JSON, trata erros com try/except e é validado com testes em pytest.",
+      "path": "assignments/gerenciador-de-notas",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Código Inicial",
+          "file": "notas.py",
+          "type": "python"
+        },
+        {
+          "name": "Testes Iniciais",
+          "file": "test_notas.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
